@@ -266,7 +266,7 @@ export async function handleMessage(text, username, accessJwt, botDid) {
 
       case "help":
 
-        answerText = "Command overview \n\nUse \"help\" for more information about a specific command. \n\n\"Balance\" \nShows your account balance \n\n\"Deposit\" \n Shows your account address. \n\n\"Withdraw\" \nWithdraw to an external Nano address. \nExample withdrawing 10 Nano: \nWithdraw 10 nano_1kxw17qafsgjrs7d8xa6powp3umxrk9yik7wtqyojq7xm7n8t6pgq4fbw41c \n\n\"Donate\" \nDonate to the Nano TipBot. \nExample donating 10 Nano: Donate 10 \n\n\"Giveaway\" \nStarts a giveaway. \nExample giving away 10 Nano, 0.05 Nano for everyone reposting or quoting the post until the specified amount is empty: \nGiveaway 10";
+        answerText = "Command overview \n\nUse \"help\" for more information about a specific command. \n\n\"Balance\" \nShows your account balance \n\n\"Deposit\" \n Shows your account address. \n\n\"Withdraw\" \nWithdraw to an external Nano address. \nExample withdrawing 10 Nano: \nWithdraw 10 nano_1kxw17qafsgjrs7d8xa6powp3umxrk9yik7wtqyojq7xm7n8t6pgq4fbw41c \n\n\"Donate\" \nDonate to the Nano TipBot. \nExample donating 10 Nano: Donate 10 \n\n\"Giveaway\" \nStarts a giveaway. \nExample giving away 10 Nano, 0.05 Nano for everyone reposting the post until the specified amount is empty: \nGiveaway 10";
         break;
 
       case "withdraw":
@@ -390,7 +390,7 @@ export async function handleMessage(text, username, accessJwt, botDid) {
         break;
 
       default:
-        answerText = "Command overview \n\nUse \"help\" for more information about a specific command. \n\n\"Balance\" \nShows your account balance \n\n\"Deposit\" \n Shows your account address. \n\n\"Withdraw\" \nWithdraw to an external Nano address. \nExample withdrawing 10 Nano: \nWithdraw 10 nano_1kxw17qafsgjrs7d8xa6powp3umxrk9yik7wtqyojq7xm7n8t6pgq4fbw41c \n\n\"Donate\" \nDonate to the Nano TipBot. \nExample donating 10 Nano: Donate 10 \n\n\"Giveaway\" \nStarts a giveaway. \nExample giving away 10 Nano, 0.05 Nano for everyone reposting or quoting the post until the specified amount is empty: \nGiveaway 10";
+        answerText = "Command overview \n\nUse \"help\" for more information about a specific command. \n\n\"Balance\" \nShows your account balance \n\n\"Deposit\" \n Shows your account address. \n\n\"Withdraw\" \nWithdraw to an external Nano address. \nExample withdrawing 10 Nano: \nWithdraw 10 nano_1kxw17qafsgjrs7d8xa6powp3umxrk9yik7wtqyojq7xm7n8t6pgq4fbw41c \n\n\"Donate\" \nDonate to the Nano TipBot. \nExample donating 10 Nano: Donate 10 \n\n\"Giveaway\" \nStarts a giveaway. \nExample giving away 10 Nano, 0.05 Nano for everyone reposting the post until the specified amount is empty: \nGiveaway 10";
         break;
     }
     //return answerText;
