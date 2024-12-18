@@ -1,0 +1,349 @@
+{
+  "users": {
+    "ghostbanned7.bsky.social": {
+      "account": "nano_3ec6fnuyc7qc47tbc5ks83mpdxsdtuhtujbjyokhz1n39ggwq3z9ygh5n14f",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-11-22",
+          "fromAccount": "nano_1bt3n8re6iea33tsca941c9himhzgsesihm5mu5o71qpya73gxrrqudh8t4u",
+          "amount": "13300000000000000000000000000"
+        }
+      ]
+    },
+    "nano2dev.bsky.social": {
+      "account": "nano_1o5onzgznnhupxo4gs6ebb6tc75omw565u774dbgnru85g3ibowq7cwoo641",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-11-22",
+          "fromAccount": "nano_35m7r4h91p6qe6nd7tym7boem5mynhghwdnwnc9x8zmqhim8ygjjht4kj3i6",
+          "amount": "133000000000000000000000000000"
+        }
+      ]
+    },
+    "businessnow.bsky.social": {
+      "account": "nano_1fgz1fakuhc619sjgj7a7xw1wdkytcm1b1uthhi7oes5rxcgkd3ka7ashoek",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-11-23",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "10000000000000000000000000000"
+        }
+      ]
+    },
+    "bitcoin.bsky.social": {
+      "account": "nano_1sc86nfq6rn596muzh7oumkhshj3z79swaddbxq4tq8cxrjcaaxn8pw6tocs",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-11-23",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "10000000000000000000000000000"
+        },
+        {
+          "dateOfTip": "2024-11-23",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "100000000000000000000000000000"
+        }
+      ]
+    },
+    "binance.bsky.social": {
+      "account": "nano_118okrwek96d56a74i7b16wn31kd55tco3yri56kronsicmnhban5pi84nc9",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-11-24",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "500000000000000000000000000000"
+        }
+      ]
+    },
+    "xrp.bsky.social": {
+      "account": "nano_3u6m85sdex6aaxcajmc5tf3xa3f4ohb7f7h5ds9uucr4yh4b8b8667bjx8p4",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-11-25",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "200000000000000000000000000000"
+        }
+      ]
+    },
+    "coingecko.bsky.social": {
+      "account": "nano_1h4s6qnmies3n8cmxpci9pogyi6uqtcw5ciyhp4wqqxsdz1k31wyyy4xf1u8",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-11-25",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "1000000000000000000000000000000"
+        }
+      ]
+    },
+    "bsky.app": {
+      "account": "nano_3omxm3dmehqyyxs54onpecgcc7ggeneghwtsnkttiph8ha5wxys9iiutqxwo",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-11-25",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "1000000000000000000000000000000"
+        },
+        {
+          "dateOfTip": "2024-11-27",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "1000000000000000000000000000000"
+        }
+      ]
+    },
+    "twrasun.bsky.social": {
+      "account": "nano_38qphfcfgzs7h1pa1gi5bbtttk67tw4xc481syk8gxidwo6zcb9dcn4ai7nz",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-11-25",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "500000000000000000000000000000"
+        }
+      ]
+    },
+    "aoc.bsky.social": {
+      "account": "nano_3dxy3sh38zq7ddd1z6s6dtwb5po47f1xcs3arh7q19kpynwmhmofns6s5t4g",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-11-25",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "1000000000000000000000000000000"
+        }
+      ]
+    },
+    "elhotzo.bsky.social": {
+      "account": "nano_34dbfs88nptkz4rb6zrz3137bgeqoxurohsp34nquurseryaass1yykcjr4w",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-11-25",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "1000000000000000000000000000000"
+        },
+        {
+          "dateOfTip": "2024-11-26",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "500000000000000000000000000000"
+        }
+      ]
+    },
+    "aquageo.bsky.social": {
+      "account": "nano_1aqqt77ia5qptb6trmqpfyboqs9fuhmz1cwneaq5jjggs973fbc7mkr4jrof",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-11-26",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "1000000000000000000000000000000"
+        }
+      ]
+    },
+    "tagesschau.bsky.social": {
+      "account": "nano_3jicozret6zuf1s6db4i7dufotxfgr96pra8gdzihphs6akafga1544hjgox",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-11-26",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "1000000000000000000000000000000"
+        }
+      ]
+    },
+    "barhocker123.bsky.social": {
+      "account": "nano_1nzs3roc9ztifayc49oaz1bwpjs98c1ftyfi1fw38j58yq88dhminzjm8xbd",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-11-26",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "500000000000000000000000000000"
+        }
+      ]
+    },
+    "pfrazee.com": {
+      "account": "nano_1zmjbithgajzrscxfka685p1nhu7jxydf96xwr9i5xemtzd1bp7ifw76iyap",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-11-26",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "1500000000000000000000000000000"
+        }
+      ]
+    },
+    "liaonet.bsky.social": {
+      "account": "nano_3owifmyqz95xc7r9e3873qeoy16yuo5w67f49zm7chmef8hxmbt6rzhrcbe4",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-11-27",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "500000000000000000000000000000"
+        }
+      ]
+    },
+    "creativespaces.bsky.social": {
+      "account": "nano_153epiurdndhmbckzo363nyn6u8ynjr7r6p3usfa8mbozinfnrrqecirke9d",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-11-27",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "500000000000000000000000000000"
+        }
+      ]
+    },
+    "dalinhuang.bsky.social": {
+      "account": "nano_3tcimo5tucaikb9p7ehk6dtt7pxpjycchcsg6o7j5unbh676tytng7ipkfqs",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-11-27",
+          "fromAccount": "nano_35m7r4h91p6qe6nd7tym7boem5mynhghwdnwnc9x8zmqhim8ygjjht4kj3i6",
+          "amount": "1330000000000000000000000000000"
+        }
+      ]
+    },
+    "christosilvia.bsky.social": {
+      "account": "nano_33hb8bwbtx9zu576rffb1ttqdurd5ap9hmz4cfefxiws4zy8saajgoeuzfmp",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-11-28",
+          "fromAccount": "nano_1k4iikd7o8mekzf4ek6xboy7zu557jksgjdn7o71godqgnnupz1jw4ymxnfo",
+          "amount": "500000000000000000000000000000"
+        }
+      ]
+    },
+    "budsen.bsky.social": {
+      "account": "nano_14ezngq6awg1qxpzpgbd5pc9tgq566oz5wsuzz6a8a4ub4pojbcfhqccjhy8",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-11-28",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "500000000000000000000000000000"
+        }
+      ]
+    },
+    "dailyfun.bsky.social": {
+      "account": "nano_3zs5f7zjnirej9gc8ayn3i3tw7pr4q749ptfnbo1es8d9h78eswjcjhgqehw",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-11-28",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "200000000000000000000000000000"
+        }
+      ]
+    },
+    "schultek.dev": {
+      "account": "nano_3jysre1cat8gsxy7way6n78dtw97tqkpwfojsdssmntyo7mx4p5u59p4c6od",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-11-28",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "500000000000000000000000000000"
+        }
+      ]
+    },
+    "bitrefill.bsky.social": {
+      "account": "nano_1xuwpw3x74ztfuuzqob3grgtf3emrnuynaru8gpok4yywamjierugwnba4yt",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-11-29",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "1000000000000000000000000000000"
+        }
+      ]
+    },
+    "d-irgendwo.bsky.social": {
+      "account": "nano_3q5b5rs7rgcydrrd74tnztsiudhyckmmugp7s3nfptrja3fhcmddpzirqono",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-11-30",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "500000000000000000000000000000"
+        }
+      ]
+    },
+    "peterstefanovic.bsky.social": {
+      "account": "nano_1b9ar69kseds49y8y47wiqrz6yjwo7hk74yt94akmioj31z1hiqfho793n1x",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-11-30",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "1000000000000000000000000000000"
+        }
+      ]
+    },
+    "poetrycurrency.bsky.social": {
+      "account": "nano_1jssxwaag9g49objimaf986rjyec78jncmpy81tsmtgemua5gwppsc163d6h",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-11-30",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "1000000000000000000000000000000"
+        }
+      ]
+    },
+    "lagedernation.org": {
+      "account": "nano_3zrapsz8yq6wma9sg38fkcemfg7mrsyfqajj53cjr7tt5abzcsas6crjqqrs",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-11-30",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "2000000000000000000000000000000"
+        }
+      ]
+    },
+    "inhatible-zone.bsky.social": {
+      "account": "nano_15fc76pxtrtmr6rrw6pgqk3tukocbih3xk9xjdn8dnqacuwegygq8ktikz18",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-12-01",
+          "fromAccount": "nano_1zqy98ck6kq7pfczcnae48hjg4mrp38nrfx46mw84pmgebybkiyk9zp9shjm",
+          "amount": "200000000000000000000000000000"
+        }
+      ]
+    },
+    "denniskberlin.bsky.social": {
+      "account": "nano_3pfmupy111gxab9kk93351fy9mfpu9b5gxdpjb5miqugnwxtjrkfgbq3sj68",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-12-02",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "500000000000000000000000000000"
+        }
+      ]
+    },
+    "robinvr.bsky.social": {
+      "account": "nano_38zzo5c7qhpsq8wcptm6aqr58e8f6j8jd3be9g3dcxh3h8wc5bwo4o8dbue8",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-12-02",
+          "fromAccount": "nano_1zqy98ck6kq7pfczcnae48hjg4mrp38nrfx46mw84pmgebybkiyk9zp9shjm",
+          "amount": "200000000000000000000000000000"
+        }
+      ]
+    },
+    "nytimes.com": {
+      "account": "nano_3w1w164onyhjfurru7faoqpjssgwigcyut8z3k98megobcb4xhc88mp9e9ze",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-12-03",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "1000000000000000000000000000000"
+        }
+      ]
+    },
+    "ruekkert.bsky.social": {
+      "account": "nano_3rtwttpjx81acsxm5xazg74r1reo1o8unz9owc1hn3n1ftzudpn5jey7313g",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-12-03",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "200000000000000000000000000000"
+        }
+      ]
+    },
+    "janskudlarek.bsky.social": {
+      "account": "nano_3n9c7ppxmsyq7cugmer4fx493i9e5m6ffw61d7y39ozodsfhyduyw4nuuy1q",
+      "TipsNotAccepted": [
+        {
+          "dateOfTip": "2024-12-03",
+          "fromAccount": "nano_37ae8cnwhirkq6yeux55py3nfwaq974rcpw5qskphaqprmegkerhrwqq7b9y",
+          "amount": "500000000000000000000000000000"
+        }
+      ]
+    }
+  }
+}

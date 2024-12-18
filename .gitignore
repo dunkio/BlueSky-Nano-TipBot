@@ -1,0 +1,4 @@
+.env
+bsky_nanosprinkle.mjs
+test.mjs
+/node_modules
