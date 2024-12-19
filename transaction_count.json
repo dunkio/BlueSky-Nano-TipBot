@@ -1,8 +1,8 @@
 {
   "users": {
-    "transactions":{
-      "tx_number": 0,
-      "nano_tip_number": 0
+    "transactions": {
+      "tx_number": 177,
+      "nano_tip_number": 85
     }
   }
 }

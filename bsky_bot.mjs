@@ -143,9 +143,9 @@ bot.on("mention", async (mention) => {
 										tipValue = parseFloat(tipValue.toFixed(2));
 
 										await mention.reply({
-											text: `${tip_amount} Nano (worth ${tipValue} USD) tipped to ${tipped_user}. 
-												\n${tipped_user}, send me a private message to accept the Nano-Tip within the next seven days.
-											\nNano is a feeless, instant and energy-efficient digital currency. More information on nanocurrency.bsky.social`
+											text: `${tip_amount} Nano (~ ${tipValue} USD) tipped to ${tipped_user}. 
+												\n${tipped_user}, send me a message to accept the Nano-Tip within the next 7 days.
+											\nNano is a feeless, instant and energy-efficient digital currency. More on nanocurrency.bsky.social`
 										});
 									} else {
 										await mention.reply({ text: `There was a problem, please try again.` });
@@ -169,9 +169,9 @@ bot.on("mention", async (mention) => {
 									tipValue = parseFloat(tipValue.toFixed(2));
 
 									await mention.reply({
-										text: `${tip_amount} Nano (worth ${tipValue} USD) tipped to ${tipped_user}. 
-											\n${tipped_user}, send me a private message to accept the Nano-Tip within the next seven days.
-											\nNano is a feeless, instant and energy-efficient digital currency. More information on nanocurrency.bsky.social`
+										text: `${tip_amount} Nano (~ ${tipValue} USD) tipped to ${tipped_user}. 
+											\n${tipped_user}, send me a message to accept the Nano-Tip within the next 7 days.
+											\nNano is a feeless, instant and energy-efficient digital currency. More on nanocurrency.bsky.social`
 
 									});
 								} else {
@@ -188,7 +188,7 @@ bot.on("mention", async (mention) => {
 							if (trx_block_hash.block) {
 								tipValue = xnoPrice * parseFloat(tip_amount);
 								tipValue = parseFloat(tipValue.toFixed(2));
-								await mention.reply({ text: `${tip_amount} Nano (worth ${tipValue} USD) tipped to ${tipped_user}` });
+								await mention.reply({ text: `${tip_amount} Nano (~ ${tipValue} USD) tipped to ${tipped_user}` });
 							} else {
 								await mention.reply({ text: `There was a problem, please try again.` });
 							}

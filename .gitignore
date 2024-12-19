@@ -2,3 +2,7 @@
 bsky_nanosprinkle.mjs
 test.mjs
 /node_modules
+user_account.json
+transaction_count.json
+open_tips.json
+giveaway_account.json
